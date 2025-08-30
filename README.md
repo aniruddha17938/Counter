@@ -1,2 +1,2 @@
 # Counter
-HTML, CSS, JS project 5
+Simple Counter made using HTML, CSS, and JS 
